@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahmin Shoukoohi</h1>
 <h3 align="center">A passionate fullstack engineer</h3>
 
-- 🔭 I’m currently working on **A Project To Store and Encrypt Files and Organize Them for my Dad:)**
+- 🔭 I’m currently working on **A project called Watiress**
 
-- 🌱 I’m currently learning **More Advanced Algorithms**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **My old pro career :eyes:**
 
