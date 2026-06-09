@@ -1,6 +1,6 @@
 # Rahmin Shoukoohi
 
-**Software Engineer** — building production systems in Go, Python, TypeScript, and React Native.
+**Software Engineer** — building production systems in Go, Python, TypeScript, React, and React Native.
 
 Full stack engineer who loves building things from scratch. I architect backend systems, ship products end-to-end, and nerd out over clean APIs. Previously founded [Waitress](https://github.com/1shoukr), a restaurant POS/ordering platform built on Go and React Native.
 
